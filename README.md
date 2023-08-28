@@ -1,5 +1,3 @@
 # Stenotype Extended
 
-Plover plugin for an extended Stenotype layout.
-
-![Layout image](https://github.com/sammdot/plover-stenotype-extended/blob/main/screenshot.png)
+Edited Extended layout to add the Mark button as a steno key with minimal changes. 
